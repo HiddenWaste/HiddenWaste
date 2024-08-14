@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome!!
+
+I'm an Undergraduate Student interested in all things AI, Audio, Data, WebDev, and even more! 
+
+Preferred languages - Python, C++, JavaScript, Supercollider
 
 <!--
 **HiddenWaste/HiddenWaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
