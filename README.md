@@ -4,7 +4,7 @@ I'm an Undergraduate Student interested in all things AI, Audio, Data, WebDev, a
 
 Currently Working on: Simply refining my software dev skills and workflow!
 
-Preferred languages - Python, C++, JavaScript, Supercollider
+Preferred languages - Python, JavaScript, Supercollider, C++
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/TQ84GaD.jpeg" height=200 width=200>
