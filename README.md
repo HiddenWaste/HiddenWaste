@@ -7,7 +7,7 @@ Preferred languages - Python, C++, JavaScript, Supercollider
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://imgur.com/gallery/rule-105-cellular-automata-A9hoB">
+ <img alt="YOUR-ALT-TEXT" src="https://i.imgur.com/YqDPrct.png">
 </picture>
 
 <!--
