@@ -2,6 +2,8 @@
 
 I'm an Undergraduate Student interested in all things AI, Audio, Data, WebDev, and even more! 
 
+Currently Working on: Simply refining my software dev skills and workflow!
+
 Preferred languages - Python, C++, JavaScript, Supercollider
 
 <picture>
