@@ -1,8 +1,8 @@
 ## Welcome!!
 
-I'm an Undergraduate Student interested in all things AI, Audio, Data, WebDev, and even more! 
+I just graduated with a B.S in Artificial Intelligence, a B.S in Digital Sound Desing, and a Creative Coding Certificate!
 
-Currently Working on: My Final Undergrad Project!
+I am interested in all things AI, Audio, Data, WebDev, and even more! 
 
 Preferred languages - Python, JavaScript, Supercollider, C++, HTML, CSS
 
