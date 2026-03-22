@@ -1,4 +1,4 @@
-## Welcome!!
+# Welcome!!
 B.S in Artificial Intelligence, B.S in Digital Sound Design and a Creative Coding Certificate
 
 Experience With - Python, JavaScript, Supercollider, C++, HTML, CSS, PHP, SQL, Bash
@@ -6,7 +6,7 @@ Experience With - Python, JavaScript, Supercollider, C++, HTML, CSS, PHP, SQL, B
 a disorganized idea-machine
 
 
-Currently Exploring:
+## Currently Exploring:
 - Linux
   - Shell scripting to automate system installation and configuration
   - New ways to improve productivity and efficiency
