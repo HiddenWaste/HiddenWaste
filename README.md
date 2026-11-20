@@ -2,7 +2,7 @@
 B.S in Artificial Intelligence, B.S in Digital Sound Design and a Creative Coding Certificate
 
 Experience
-Languages: Python, JavaScript, Supercollider, C++, HTML, CSS, PHP, SQL, Bash
+Languages: Python, JavaScript, Supercollider, C++, HTML, CSS, PHP, SQL, Bash <br></br>
 OS: Arch, Ubuntu 14 19 24 26, Linux Mint, Debian, Windows, Mac
 
 a disorganized idea-machine
