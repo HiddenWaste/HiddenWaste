@@ -1,17 +1,20 @@
 # Welcome!!
 B.S in Artificial Intelligence, B.S in Digital Sound Design and a Creative Coding Certificate
 
-Experience With - Python, JavaScript, Supercollider, C++, HTML, CSS, PHP, SQL, Bash
+Experience
+Languages: Python, JavaScript, Supercollider, C++, HTML, CSS, PHP, SQL, Bash
+OS: Arch, Ubuntu 14 19 24 26, Linux Mint, Debian, Windows, Mac
 
 a disorganized idea-machine
 
-
 ## Currently Exploring:
 - Linux
-  - Shell scripting to automate system installation and configuration
-  - New ways to improve productivity and efficiency
-- Easily adopted website stack
-- Python web development and automation
+  - coalescing dotfiles configurations before implementing local change architecture and theme switching
+- AI
+  - Beginning local hosting models and exploring how agents fit into my workflow
+- Sound Design
+  - Trying out Strudel a bit
+  - Revisiting the 'Glassian Autonomous System'
 <br><br>
 
 <picture>
