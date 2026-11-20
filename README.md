@@ -1,5 +1,5 @@
 # Welcome!!
-B.S in Artificial Intelligence, B.S in Digital Sound Design and a Creative Coding Certificate
+**B.S in Artificial Intelligence, B.S in Digital Sound Design and a Creative Coding Certificate**
 
 Experience
 Languages: Python, JavaScript, Supercollider, C++, HTML, CSS, PHP, SQL, Bash <br></br>
